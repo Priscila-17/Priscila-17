@@ -5,8 +5,6 @@
 - 📊 Passionate about Data Science and Data Analysis to solve real-world problems.  
 - 🌎 Seeking **remote jobs** and opportunities in the technology field.  
 - 🎓 Always learning something new and developing practical projects!  
-- 🎲 Curious, hardworking, proactive, sincere, and optimistic!  
-- 🧩 I struggle with delegating tasks.  
 
 ---  
 
