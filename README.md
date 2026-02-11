@@ -1,24 +1,25 @@
-# 🌟 Hello, I'm Priscila Oliveira! 👩‍💻  
+# 🌟 Priscila Oliveira! 
+Data Analyst | Excel • Power BI • Python (Pandas)
 
 🎯 **About Me:**  
-- 👩‍🔬 Graduated in Mechanical Engineering with a specialization in **Aerospace Engineering (CFD)**.  
-- 📊 Passionate about Data Science and Data Analysis to solve real-world problems.  
-- 🌎 Seeking **remote jobs** and opportunities in the technology field.  
-- 🎓 Always learning something new and developing practical projects!  
+- 👩‍🔬 Mechanical Engineer transitioning into Data Analysis, focused on transforming raw data into clear business insights.  
+- Experience in structured problem solving, modeling and analytical thinking.
+- Seeking **remote jobs** and opportunities in the technology field.  
+- Always learning something new and developing practical projects!  
 
 ---  
 
 ## 🚀 **Technical Skills**  
-- **Languages:** Python, Matlab.  
-- **Tools and Libraries:** Pandas, NumPy, Matplotlib.  
-- **Data Visualization:** Power BI.  
-- **Methods:** Computational modeling (CFD).  
+- Excel (Dashboards, Pivot Tables)
+- Power BI
+- Python (Pandas, NumPy)
+- Data Cleaning and Analysis
+- SQL (basic) 
 
 ---  
 
 ## 💡 **Recent Activities**  
-- 🌟 Currently completing a **Data Science course** with a focus on practical projects.  
-- 💪 Pursuing the second semester of a Master's degree in Aerospace Engineering with a focus on CFD analysis.  
+- Building practical data analysis projects aimed at small and medium businesses.
 
 ---  
 
