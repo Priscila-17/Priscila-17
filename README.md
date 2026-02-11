@@ -10,12 +10,18 @@ Data Analyst | Excel • Power BI • Python (Pandas)
 ---  
 
 ## 🚀 **Technical Skills**  
+**Tools**
 - Excel (Dashboards, Pivot Tables)
 - Power BI
 - Python (Pandas, NumPy)
 - Data Cleaning and Analysis
 - SQL (basic) 
 
+**Core Skills**
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- KPI Tracking
+- Business Insights
 ---  
 
 ## 💡 **Recent Activities**  
