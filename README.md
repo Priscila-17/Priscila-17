@@ -14,7 +14,7 @@ I focus on transforming raw data into clear, actionable information that support
 
 ---
 
-##**Technical Skills**  
+## **Technical Skills**  
 
 ### Tools 🔧
 
