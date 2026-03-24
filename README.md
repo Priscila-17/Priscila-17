@@ -19,7 +19,8 @@ I focus on transforming raw data into clear, actionable information that support
 ### Tools 🔧
 
 - **Excel** (Pivot Tables, Data Cleaning)  
-- **Power BI** (Interactive dashboards, KPIs, storytelling)  
+- **Power BI** (Interactive dashboards, KPIs, storytelling)
+- **DAX** (Measures to build the main business indicators)  
 - **Python** (Pandas, NumPy, data manipulation & analysis)  
 - **SQL** (Advanced queries, subqueries, combine tables)  
 
