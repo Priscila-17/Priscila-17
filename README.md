@@ -23,7 +23,7 @@ I focus on transforming raw data into clear, actionable information that support
 - **Python** (Pandas, NumPy, data manipulation & analysis)  
 - **SQL** (Advanced queries, subqueries, combine tables)  
 
-### Analytical Skills  
+### Analytical Skills
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Transformation  
 - KPI Definition & Tracking  
