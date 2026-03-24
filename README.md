@@ -1,33 +1,42 @@
-# 🌟 Priscila Oliveira! 
-Data Analyst | Excel • Power BI • Python (Pandas)
+# 🌟 Priscila Oliveira  
+**Data Analyst | Excel • Power BI • Python (Pandas)**  
 
-🎯 **About Me:**  
-- 👩‍🔬 Mechanical Engineer transitioning into Data Analysis, focused on transforming raw data into clear business insights.  
-- Experience in structured problem solving, modeling and analytical thinking.
-- Seeking **remote jobs** and opportunities in the technology field.  
-- Always learning something new and developing practical projects!  
+🎯 **About Me**  
+Engineer transitioning into Data Analysis, combining analytical thinking with practical business-oriented insights.  
 
----  
+I focus on transforming raw data into clear, actionable information that supports decision-making and improves business performance.  
+
+- Experience with structured problem solving, data modeling, and analytical reasoning  
+- Strong interest in understanding *how data impacts real business outcomes*  
+- Currently building real-world projects focused on sales, customer behavior, and performance analysis  
+- Open to **remote opportunities** in data analysis  
+
+---
 
 ## 🚀 **Technical Skills**  
-**Tools**
-- Excel (Dashboards, Pivot Tables)
-- Power BI
-- Python (Pandas, NumPy)
-- Data Cleaning and Analysis
-- SQL (basic) 
 
-**Core Skills**
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- KPI Tracking
-- Business Insights
----  
+### 🔧 Tools   
+- **Excel** (Pivot Tables, Data Cleaning)  
+- **Power BI** (Interactive dashboards, KPIs, storytelling)  
+- **Python** (Pandas, NumPy, data manipulation & analysis)  
+- **SQL** (Advanced queries, subqueries, combine tables)  
 
-## 💡 **Recent Activities**  
-- Building practical data analysis projects aimed at small and medium businesses.
+### 📊 Analytical Skills  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
+- KPI Definition & Tracking  
+- Customer Behavior Analysis  
+- Business Insight Generation  
+- Extract, Transform, Load (ETL)
 
----  
+---
 
-## 📫 **Get in Touch**  
+## 💡 **What I'm Working On**  
+- Improving SQL skills for data extraction and analysis  
+- Developing end-to-end projects (from raw data to dashboards)  
+- Strengthening storytelling with data  
+
+---
+
+## 📫 **Contact**  
 - 📩 Email: [p.oliveira1221@gmail.com](mailto:p.oliveira1221@gmail.com)  
