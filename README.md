@@ -1,7 +1,7 @@
-# 🌟 Priscila Oliveira  
+# Priscila Oliveira  
 **Data Analyst | Excel • Power BI • Python (Pandas)**  
 
-🎯 **About Me**  
+**About Me** 🎯 
 Engineer transitioning into Data Analysis, combining analytical thinking with practical business-oriented insights.  
 
 I focus on transforming raw data into clear, actionable information that supports decision-making and improves business performance.  
@@ -13,15 +13,15 @@ I focus on transforming raw data into clear, actionable information that support
 
 ---
 
-## 🚀 **Technical Skills**  
+##**Technical Skills**  
 
-### 🔧 Tools   
+### Tools 🔧   
 - **Excel** (Pivot Tables, Data Cleaning)  
 - **Power BI** (Interactive dashboards, KPIs, storytelling)  
 - **Python** (Pandas, NumPy, data manipulation & analysis)  
 - **SQL** (Advanced queries, subqueries, combine tables)  
 
-### 📊 Analytical Skills  
+### nalytical Skills  
 - Exploratory Data Analysis (EDA)  
 - Data Cleaning & Transformation  
 - KPI Definition & Tracking  
@@ -31,12 +31,12 @@ I focus on transforming raw data into clear, actionable information that support
 
 ---
 
-## 💡 **What I'm Working On**  
+## **What I'm Working On**  
 - Improving SQL skills for data extraction and analysis  
 - Developing end-to-end projects (from raw data to dashboards)  
 - Strengthening storytelling with data  
 
 ---
 
-## 📫 **Contact**  
+## **Contact**  
 - 📩 Email: [p.oliveira1221@gmail.com](mailto:p.oliveira1221@gmail.com)  
